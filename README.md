@@ -1,3 +1,3 @@
 # DL-with-Pytorch
 
-translated and modified from [here](https://github.com/HerrWangkv/Dive-into-DL-PyTorch)
+translated and modified from [Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
